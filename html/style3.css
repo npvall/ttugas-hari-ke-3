@@ -1,0 +1,31 @@
+.container-nav {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+  }
+  .text1 {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    color: aliceblue;
+    text-align: center;
+  }
+  .text2 {
+    color: rgb(243, 139, 156);
+  }
+  .text3 {
+    margin: 5px;
+  }
+  .text4 {
+    font-size: 50px;
+    width: 200px;
+  }
+  .gambar {
+    width: 30px;
+  }
+  .footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: end;
+    gap: 15px;
+  }
